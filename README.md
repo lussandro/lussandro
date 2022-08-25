@@ -17,14 +17,14 @@
 <a href="https://github.com/lussandro/lussandro/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/lussandro/lussandro?color=2b9348"></a>
 <a href="https://github.com/lussandro/lussandro/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lussandro/lussandro?color=2b9348" alt="License Badge"/></a>
 
-<div>
+<div align="center">
 <a href="https://github.com/lussandro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lussandro&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lussandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
   ### Ferramentas e Tecnologias
-<div>          
+<div align="center">          
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"  width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
