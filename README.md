@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <i class="devicon-kubernetes-plain colored"></i>
           
   ### Ferramentas e Tecnologias
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"  width="40" height="40"/>
           
