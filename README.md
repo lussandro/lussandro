@@ -6,7 +6,7 @@
 <a href="https://github.com/lussandro/lussandro/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lussandro/lussandro?color=2b9348" alt="License Badge"/></a>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/lussandro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lussandro&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lussandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
