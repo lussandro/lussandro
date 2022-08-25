@@ -1,4 +1,4 @@
-</div>
+</div align="center">
 <a href="https://github.com/lussandro/lussandro/stargazers"><img src="https://img.shields.io/github/stars/lussandro/lussandro" alt="Stars Badge"/></a>
 <a href="https://github.com/lussandro/lussandro/network/members"><img src="https://img.shields.io/github/forks/lussandro/lussandro" alt="Forks Badge"/></a>
 <a href="https://github.com/lussandro/lussandro/pulls"><img src="https://img.shields.io/github/issues-pr/lussandro/lussandro" alt="Pull Requests Badge"/></a>
