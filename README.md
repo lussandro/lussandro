@@ -1,3 +1,8 @@
+### Quem sou eu:
+          Analista DevOps com experiência em Docker, Docker-Swarm, Kubernetes, experiência
+          nos grandes players de cloud, tais como: AWS, GCP, ORACLE, AZURE.
+          Programador Python iniciante, hoje totalmente apaixonado pela linguagem.
+          Familiaridade com ambiente de infra clássica, tais como virtualização, containeres etc..
 ### Contatos:
 
 <div>
